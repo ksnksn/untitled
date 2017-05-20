@@ -6,6 +6,6 @@ ksnksnksn33
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("master1local");
+        System.out.println("super");
     }
 }
